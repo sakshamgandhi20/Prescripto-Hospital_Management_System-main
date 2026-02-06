@@ -29,8 +29,7 @@ Follow these instructions to set up the project locally.
 ### Installation
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/Prescripto-Hospital_Management_System.git
-   cd Prescripto-Hospital_Management_System
+   git clone https://github.com/sakshamgandhi20/VitalSync.git
 
 ## Install dependencies
 
